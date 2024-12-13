@@ -4,11 +4,11 @@ L'objectif de ce projet est de réaliser une Datavisualisation et faire un story
 
 Réalisations : 
   + Rapport mensuel d'analyse des ventes (powerpoint).
-  + Tableau de bord mensuel avec agrégation de données et datavisualisation.
+  + Tableau de bord mensuel avec agrégation de données et datavisualisation (Excel).
 
 Softs Skills travaillées :
   +  Conception de graphiques adaptés aux types de données.
-  +  Récit des résultats pour un piblic non spécialiste.
+  +  Récit des résultats pour un public non spécialiste.
   +  Prise en compte des bonnes pratiques d'accessibilité.
 
 Compétences travaillées :
